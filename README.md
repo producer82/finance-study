@@ -1,2 +1,2 @@
-# School-Of-Finance
+# 금융 공부용 소스코드
 
